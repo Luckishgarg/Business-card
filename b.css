@@ -1,0 +1,27 @@
+body{
+
+  text-align: center;
+  font-family: verdana;
+
+
+
+}
+.card{
+
+  display: flex;
+  justify-content: center;
+padding: 20px;
+width: 400px;
+display: flex;
+margin: 40px auto;
+
+
+background: 	skyblue;
+color: #2b2839;
+border-bottom: 6px solid #d8cefe;
+}
+
+.photo{
+ width: 155px;
+
+}
